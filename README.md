@@ -65,29 +65,4 @@ The **HotelBookingSystem** is a web-based application designed to manage hotel b
 
   * `sendemail(string email, string domain)`: Sends a confirmation email to the user.
 
-- [2025-01-01T17:16:26] style: enhance README formatting and badge definitions
-- [2025-01-12T22:22:32] style: enhance README formatting and badge definitions
-- [2025-01-30T11:50:45] style: enhance README formatting and badge definitions
-- [2025-03-05T10:32:00] docs(readme): improve documentation notes and usage guidelines
-- [2025-03-24T17:22:00] docs(readme): improve documentation notes and usage guidelines
-- [2025-04-24T11:14:38] style: enhance README formatting and badge definitions
-- [2025-05-01T11:43:22] docs(readme): improve documentation notes and usage guidelines
-- [2025-05-18T21:47:38] docs(readme): improve documentation notes and usage guidelines
-- [2025-05-29T09:40:08] style: enhance README formatting and badge definitions
-- [2025-05-29T20:07:53] style: enhance README formatting and badge definitions
-- [2025-06-23T13:53:30] docs(readme): improve documentation notes and usage guidelines
-- [2025-07-11T16:11:35] docs(readme): improve documentation notes and usage guidelines
-- [2025-07-21T16:01:17] docs(readme): improve documentation notes and usage guidelines
-- [2025-08-26T15:37:53] style: enhance README formatting and badge definitions
-- [2025-10-08T13:37:17] style: enhance README formatting and badge definitions
-- [2025-10-24T15:03:50] docs(readme): improve documentation notes and usage guidelines
-- [2026-01-03T10:16:50] style: enhance README formatting and badge definitions
-- [2026-01-10T10:17:40] docs(readme): improve documentation notes and usage guidelines
-- [2026-01-31T10:33:49] style: enhance README formatting and badge definitions
-- [2026-02-03T14:42:18] docs(readme): improve documentation notes and usage guidelines
-- [2026-02-16T18:53:40] docs(readme): improve documentation notes and usage guidelines
-- [2026-04-13T12:57:41] style: enhance README formatting and badge definitions
-- [2026-04-21T16:05:42] style: enhance README formatting and badge definitions
-- [2026-04-28T15:22:11] docs(readme): improve documentation notes and usage guidelines
-- [2026-05-12T13:44:53] docs(readme): improve documentation notes and usage guidelines
-- [2026-05-25T12:56:18] style: enhance README formatting and badge definitions
+<!-- [2024-09-03T17:23:13] docs(readme): update project documentation and overview -->
