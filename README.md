@@ -66,3 +66,4 @@ The **HotelBookingSystem** is a web-based application designed to manage hotel b
   * `sendemail(string email, string domain)`: Sends a confirmation email to the user.
 
 <!-- [2024-09-03T17:23:13] docs(readme): update project documentation and overview -->
+<!-- [2025-07-18T19:32:15] style: improve formatting and badge alignment -->
