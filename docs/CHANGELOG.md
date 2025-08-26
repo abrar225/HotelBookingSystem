@@ -2,3 +2,4 @@
 - [2025-04-22T17:46:30] fix: resolve minor edge cases in configuration parsing
 - [2025-05-05T22:53:59] fix: resolve minor edge cases in configuration parsing
 - [2025-06-04T17:22:55] fix: resolve minor edge cases in configuration parsing
+- [2025-08-26T09:51:22] docs(changelog): update release notes and revision log
