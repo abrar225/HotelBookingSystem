@@ -19,3 +19,4 @@
 <!-- [2026-03-02T21:35:46] docs: refine local setup instructions -->
 <!-- [2026-03-24T09:54:17] docs: refine local setup instructions -->
 <!-- [2026-04-19T22:58:45] docs: refine local setup instructions -->
+<!-- [2026-04-25T12:08:37] docs: refine local setup instructions -->
