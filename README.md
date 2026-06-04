@@ -74,3 +74,4 @@ The **HotelBookingSystem** is a web-based application designed to manage hotel b
 <!-- [2026-05-04T17:34:12] docs(readme): update project documentation and overview -->
 <!-- [2026-05-05T14:35:15] style: improve formatting and badge alignment -->
 <!-- [2026-05-18T14:00:01] style: improve formatting and badge alignment -->
+<!-- [2026-06-04T21:07:40] style: improve formatting and badge alignment -->
