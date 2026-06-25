@@ -14,3 +14,4 @@
 <!-- [2026-02-28T20:07:15] fix: minor edge case handling in config parser -->
 <!-- [2026-03-21T13:17:26] fix: minor edge case handling in config parser -->
 <!-- [2026-05-24T22:28:49] fix: minor edge case handling in config parser -->
+<!-- [2026-06-25T13:28:05] fix: minor edge case handling in config parser -->
