@@ -16,3 +16,4 @@
 <!-- [2026-05-24T22:28:49] fix: minor edge case handling in config parser -->
 <!-- [2026-06-25T13:28:05] fix: minor edge case handling in config parser -->
 <!-- [2026-06-30T17:13:22] fix: minor edge case handling in config parser -->
+<!-- [2026-07-21T17:49:07] docs(changelog): update version release notes -->
